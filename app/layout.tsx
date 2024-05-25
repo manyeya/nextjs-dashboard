@@ -1,5 +1,5 @@
 import '@/app/ui/global.css';
-import { allura, average } from '@/app/ui/fonts'
+import { allura } from '@/app/ui/fonts'
 
 export default function RootLayout({
   children,
