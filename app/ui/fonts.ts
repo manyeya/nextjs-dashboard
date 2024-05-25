@@ -1,4 +1,4 @@
-import { Lusitana, Average,Montserrat } from 'next/font/google'
+import { Lusitana, Montserrat } from 'next/font/google'
 
 export const allura = Montserrat({
     subsets: ['latin'],
